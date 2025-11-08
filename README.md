@@ -5,7 +5,7 @@ This repository demonstrates how to embed the native **WinAPI TDateTimePicker** 
 
 FMX does not provide the Vista+ animated date picker UI, so this project shows how to integrate the real Windows picker directly inside your FMX application.
 
----
+---  
 
 ## 🚀 Features
 
@@ -22,6 +22,10 @@ FMX does not provide the Vista+ animated date picker UI, so this project shows h
 ## 📸 Screenshot
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/12cc6a7c-254d-4a54-9d4a-f5de93482108" />  
+
+## 🎥 Video Test
+
+[▶️ Watch the YouTube Tutorial](https://www.youtube.com/watch?v=tkq_gTw8DlY)  
 
 Shows FMX form with native Windows date picker embedded inside.
 
