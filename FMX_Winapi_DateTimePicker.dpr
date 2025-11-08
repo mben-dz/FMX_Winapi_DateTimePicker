@@ -1,0 +1,16 @@
+program FMX_Winapi_DateTimePicker;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  Main.View in 'Main.View.pas' {MainView};
+
+{$R *.res}
+
+begin
+  ReportMemoryLeaksOnShutdown := True;
+
+  Application.Initialize;
+  Application.CreateForm(TMainView, MainView);
+  Application.Run;
+end.

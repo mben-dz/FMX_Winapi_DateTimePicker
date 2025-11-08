@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.791,F:\2040\Projects\Unit1.pas=F:\2050\FMX\SysDateTimePicker\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.899,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.024,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.797,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.757,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.878,F:\2050\FMX\SysDateTimePicker\Main.View.fmx=F:\2050\FMX\SysDateTimePicker\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.115,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.828,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.911,=F:\2040\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.288,=F:\2050\FMX\SysDateTimePicker\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.731,F:\2050\FMX\SysDateTimePicker\Winapi_DateTimePicker.dproj=F:\2050\FMX\SysDateTimePicker\FMX_Winapi_DateTimePicker.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.478,F:\2050\FMX\SysDateTimePicker\API\Res\dm.Resources.pas=F:\2050\FMX\SysDateTimePicker\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.791,F:\2040\Projects\Unit1.fmx=F:\2050\FMX\SysDateTimePicker\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.774,F:\2050\FMX\SysDateTimePicker\Project1.dproj=F:\2050\FMX\SysDateTimePicker\Winapi_DateTimePicker.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.927,F:\2050\FMX\SysDateTimePicker\Unit1.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.878,F:\2050\FMX\SysDateTimePicker\Main.View.pas=F:\2050\FMX\SysDateTimePicker\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.478,F:\2050\FMX\SysDateTimePicker\API\Res\dm.Resources.dfm=F:\2050\FMX\SysDateTimePicker\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.846,F:\2040\Projects\Project1.dproj=F:\2050\FMX\SysDateTimePicker\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.088,=F:\2050\FMX\SysDateTimePicker\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
