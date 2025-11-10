@@ -27,6 +27,8 @@ FMX does not provide the Vista+ animated date picker UI, so this project shows h
 
 [▶️ Watch the YouTube Tutorial](https://www.youtube.com/watch?v=tkq_gTw8DlY)  
 
+or PlainText Link here: https://www.youtube.com/watch?v=tkq_gTw8DlY
+
 Shows FMX form with native Windows date picker embedded inside.
 
 ---
