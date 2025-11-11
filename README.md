@@ -159,3 +159,7 @@ If you need WinUI or WinRT composition, that's a different API set.
   If this repository helped you, please star the repo ⭐  
 and subscribe to the [YouTube channel](https://www.youtube.com/@MBen_Delphi) for more Delphi / FMX tricks!  
 
+### ⭐ The Safe and Updated Method : 
+
+  Please Read @[remylebeau](https://github.com/rlebeau) Comment [Here](https://en.delphipraxis.net/topic/14669-how-to-embed-winapi-tdatetimepicker-inside-fmx-firemonkey-form/?do=findComment&comment=109809),  
+  My Upd based on @[remylebeau](https://github.com/rlebeau) Advice is [here](https://en.delphipraxis.net/topic/14669-how-to-embed-winapi-tdatetimepicker-inside-fmx-firemonkey-form/?do=findComment&comment=109880) .
